@@ -1,0 +1,4 @@
+faker>=40.0.0
+matplotlib>=3.11.0
+pandas>=3.0.0
+openpyxl>=3.1.0
