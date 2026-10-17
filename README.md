@@ -56,7 +56,7 @@ Each project README explains how to run its scripts.
 
 - **LinkedIn:** https://www.linkedin.com/in/franco-tilleria-centurion
 - **GitHub:** https://github.com/Vaxilium
-- **Email:** _<add your email>_
+- **Email:** franco.tilleria.centurion@gmail.com
 
 ---
 
@@ -97,4 +97,4 @@ mejora de procesos y el reporte de KPIs.
 
 - **LinkedIn:** https://www.linkedin.com/in/franco-tilleria-centurion
 - **GitHub:** https://github.com/Vaxilium
-- **Email:** _<agregá tu email>_
+- **Email:** franco.tilleria.centurion@gmail.com
