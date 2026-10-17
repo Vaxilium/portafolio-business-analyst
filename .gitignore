@@ -31,3 +31,6 @@ desktop.ini
 
 # Data scratch (keep tracked deliverables, ignore ad-hoc exports)
 *.bak
+
+# Local-only agent/working notes (not published)
+AGENTS.md
